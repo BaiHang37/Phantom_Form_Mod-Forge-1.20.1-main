@@ -1,0 +1,8 @@
+{
+  "item.phantom_form.eye_of_soul": "Eye of Soul",
+  "key.phantom_form.toggle": "Toggle Eye of Soul",
+  "item.phantom_form.eye_of_soul.use_hint": "Press O to toggle phantom mode",
+  "item.phantom_form.eye_of_soul.desc": "%s",
+  "item.phantom_form.eye_of_soul.active": "§7Press 'o' again to disable the item.",
+  "item.phantom_form.eye_of_soul.inactive": "§aDefault to using the 'o' key. Note that items only take effect when equipped in the main or off-hand."
+}

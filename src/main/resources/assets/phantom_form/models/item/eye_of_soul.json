@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "phantom_form:item/eye_of_soul_1"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "phantom_form:active": 1
+      },
+      "model": "phantom_form:item/eye_of_soul_active"
+    }
+  ]
+}

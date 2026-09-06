@@ -1,0 +1,8 @@
+{
+  "item.phantom_form.eye_of_soul": "离神之眼",
+  "key.phantom_form.toggle": "切换离神之眼的状态",
+  "item.phantom_form.eye_of_soul.use_hint": "Press O to toggle phantom mode",
+  "item.phantom_form.eye_of_soul.desc": "%s",
+  "item.phantom_form.eye_of_soul.active": "§7再次按“o”以禁用物品。",
+  "item.phantom_form.eye_of_soul.inactive": "§a默认按“o”使用。注意物品仅在位于主或副手时生效。"
+}
